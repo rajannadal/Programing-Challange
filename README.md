@@ -10,9 +10,9 @@ TODO: Guide users through getting your code up and running on their own system. 
 
 # Program Logic To Covered
 TODO: Describe and show how to build your code and run the tests. 
-         1.Sort Given Array
-		 2.Find Prime Number
-		 3.String Reverse
-         4.Sum of previous Number
-		 5.Print FibnoServies Number 
-		 6.Perform sum opertation without using Arthimetic opertation
+1.	Sort Given Array
+2.	Find Prime Number
+3.	String Reverse
+4.	Sum of previous Number
+5.	Print FibnoServies Number 
+6.	Perform sum opertation without using Arthimetic opertation
