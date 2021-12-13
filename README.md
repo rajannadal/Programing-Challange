@@ -1,2 +1,18 @@
-# Programing-Challange
-This repo has logical programing Challange answer  in C#
+# Introduction 
+TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+
+# Getting Started
+TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+1.	Basic Program Logic 
+2.	Written in JavaScript
+3.	Latest releases 
+
+
+# Program Logic To Covered
+TODO: Describe and show how to build your code and run the tests. 
+         1.Sort Given Array
+		 2.Find Prime Number
+		 3.String Reverse
+         4.Sum of previous Number
+		 5.Print FibnoServies Number 
+		 6.Perform sum opertation without using Arthimetic opertation
