@@ -4,7 +4,7 @@ TODO: Give a short introduction of your project. Let this section explain the ob
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Basic Program Logic 
-2.	Written in JavaScript
+2.	Written in C#
 3.	Latest releases 
 
 
